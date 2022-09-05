@@ -1,0 +1,2 @@
+# Heart-Disease-Prediction
+Heart disease is one of the most significant causes of mortality in the world today. Prediction of cardiovascular disease is a critical challenge in the area of clinical data analysis. Machine learning (ML) has been shown to be effective in assisting in making decisions and predictions from the large quantity of data produced by the healthcare industry. The Purpose of this project as the name states is to predict heart disease based on different health factors of a person obtained from other medical analysis and reports.
